@@ -17,8 +17,7 @@ service SomeService {
 
 ## Installation
 ```
-$ dep ensure
-$ go install ./cmd/
+$ make
 ```
 
 ## Usage
